@@ -10,7 +10,7 @@ export default class App extends Component{
     
     return (
       <div className="App">
-        <Image url={'https://i.ytimg.com/vi/gUIJ-UkQsXI/maxresdefault.jpg'}/>
+        <Image url={'https://en.bcdn.biz/Images/2018/6/12/27565ee3-ffc0-4a4d-af63-ce8731b65f26.jpg'}/>
       </div>
     );
 
